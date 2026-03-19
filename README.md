@@ -57,9 +57,8 @@
 # 🛠 Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react) &nbsp;&nbsp;&nbsp;
-<br>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js) &nbsp;&nbsp;&nbsp;
-<br></br>
+<br><br>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js) &nbsp;&nbsp;&nbsp;<br></br>
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express) <br><br>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb) &nbsp;&nbsp;&nbsp;
