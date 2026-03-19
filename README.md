@@ -13,7 +13,7 @@
 
 # 🚀 About Me
 
-🎓 IMCA Student passionate about building real-world applications  
+🎓 MCA Student passionate about building real-world applications  
 
 💻 Focused on **Full Stack Development (MERN Stack)**  
 
@@ -57,8 +57,7 @@
 # 🛠 Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react) &nbsp;&nbsp;&nbsp;
-<br><br>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js) &nbsp;&nbsp;&nbsp;<br></br>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js) &nbsp;&nbsp;&nbsp;
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express) <br><br>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb) &nbsp;&nbsp;&nbsp;
@@ -77,8 +76,7 @@
 
 # 📚 Currently Learning
 
-• Data Structures & Algorithms (DSA)  
-• Backend Development with Node.js  
+• Data Structures & Algorithms (DSA)    
 • API Development & Authentication  
 • AI Integration in Web Apps  
 
